@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+!.env.example
+*.sqlite*
+*.db
+*.log
+**/data/*
+!**/data/vendite-esempio.csv
+!**/data/vendite-esempio.xlsx
+!**/data/bozza-demo-v1.png
+!**/data/bozza-demo-v2.png
+backups/
+BACKUPS/

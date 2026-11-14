@@ -1,0 +1,12 @@
+﻿id_riga;data;prodotto;categoria;quantita;importo
+ R001 ;05/09/2026;Filtro;Accessori;2;40,00
+R002;15/09/2026;Nastro;Consumabili;3;15,00
+R003;02/10/2026;Filtro;Accessori;1;20,00
+R004;20/10/2026;Guanti;Consumabili;5;25,00
+R005;03/11/2026;Nastro;Consumabili;4;20,00
+R006;08/11/2026;Filtro;Accessori;-1;-20,00
+R002;15/09/2026;Nastro;Consumabili;3;15,00
+R007;31/02/2026;Filtro;Accessori;1;10,00
+R008;10/11/2026;;Accessori;1;10,00
+R009;12/11/2026;Filtro;Accessori;1;10,00
+R009;12/11/2026;Filtro;Accessori;1;11,00
