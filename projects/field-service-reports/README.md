@@ -4,6 +4,14 @@ Checklists, saved interventions and PDF reports.
 
 Personal demonstration project developed with AI assistance. This is not a client case study or a production deployment. The application interface is in Italian.
 
+## Preview and source
+
+Screenshot of the running application with synthetic demonstration data.
+
+<img src="../../assets/field-service-reports.jpg" alt="field-service-reports application preview" width="720">
+
+[Open Python backend](src/server.py) · [Open browser code](src/app.js) · [Open tests](tests)
+
 ## Run locally
 
 From this directory, with Python 3.12:
